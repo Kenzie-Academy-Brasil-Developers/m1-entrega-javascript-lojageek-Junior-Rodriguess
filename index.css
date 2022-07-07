@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+  }
+
+body{
+    
+    background-color: white;
+
+}
+
+header div img {
+    display: flex;
+
+  
+}
+
+header.cabecalho .menu {
+
+display: flex;
+margin: 0;
+padding: 0;
+display: inline-block;
+
+
+text-decoration: none;
+
+/* opacity: 10%; */
+letter-spacing: 1px;
+background-color:#0A99FE
+
+}
+
+
+header.cabecalho .menu2 {
+
+    display: flex;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+   
+    
+    text-decoration: none;
+    
+    /* opacity: 10%; */
+ 
+    background-color:#0A99FE
+    
+    }
+    
